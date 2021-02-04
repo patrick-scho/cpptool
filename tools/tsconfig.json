@@ -1,9 +1,0 @@
-{
-  "compilerOptions": {
-    "incremental": true
-  },
-  "files": [
-    "json2qjspp.ts",
-    "json2tsdecl.ts"
-  ]
-}

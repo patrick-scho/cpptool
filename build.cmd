@@ -1,0 +1,1 @@
+cl main.cpp /EHsc /I ../libs/cppast/include /I ../libs/cppast/external/type_safe/include /I ../libs/cppast/external/type_safe/external/debug_assert /MD /Zi /link ../libs/cppast/build/src/Release/cppast.lib ../libs/cppast/build/Release/_cppast_tiny_process.lib ../../terra/build/install/lib/libclang.lib
